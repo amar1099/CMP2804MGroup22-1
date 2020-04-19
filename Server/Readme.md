@@ -21,7 +21,7 @@ Logic Apps
 
 ### Cosmos db
 
-Firstly Create a database to store the incoming data from the Application:
+Firstly, create a database to store the incoming data from the Application:
 
 Navigate to All Services and search for "cosmos db"
 Select Azure Cosmos db
@@ -224,7 +224,7 @@ Remember the HTML GET request URL
 
 ## Running the tests
 
-Use Postman Application to test if the Cloud Server can push out recieved data
+Use Postman Application to test if the Cloud Server can push out received data
 
 
 <img width="1130" alt="Screenshot 2020-04-17 at 11 34 50" src="https://user-images.githubusercontent.com/62295554/79567164-a25d2e00-80ab-11ea-97da-e450df9f6572.png">
